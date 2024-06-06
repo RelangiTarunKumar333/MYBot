@@ -1,0 +1,5 @@
+wikipedia-api
+pillow
+requests
+pytube
+moviepy
